@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51101515805",
+    "project_id": "egtema3-el3am",
+    "storage_bucket": "egtema3-el3am.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51101515805:android:65fb6e8683f145c05a06f4",
+        "android_client_info": {
+          "package_name": "com.example.egtema3elegtema3el3am"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByeeoZynUUvsqNirsTlxuZNX461LWw9fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
